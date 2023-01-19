@@ -1,0 +1,8 @@
+id yctb9irx5mkusv5izibdqm76q6bre3
+secret 32fanmv4ccjc8b2kylgaz3p0i3kg9d
+
+{
+    "access_token": "q6m8s6lvmroeiq9wle40bix5stu0y4",
+    "expires_in": 5134209,
+    "token_type": "bearer"
+}
